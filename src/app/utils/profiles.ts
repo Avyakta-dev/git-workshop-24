@@ -5,10 +5,16 @@ export type ProfileProps = {
 };
 
 export const profiles: ProfileProps[] = [
+  
   {
     username: "nandanpi",
     name: "Nandan Pai",
     quote: "Nandan likes Cartoon Network!",
+  },
+  {
+    username: "avyakta-dev",
+    name: "Avyakta S",
+    quote: "I love learning new skills",
   },
   {
     username: "prabhuomkar9",
